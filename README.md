@@ -4,11 +4,11 @@ Mario Vs Nintendo 8-bits
 My first game and first time unsing Js (with kaboon)
 
 CONTROLS:
-move up
-move down
-move to the left
-move to the right
-space: shoot
+- ↑ move up
+- ↓ move down
+- ← move to the left
+- → move to the right
+- "space": to shoot
 
 INSTRUCTIONS:
 - Do not touch anything
