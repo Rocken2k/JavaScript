@@ -16,6 +16,6 @@ CONTROLS:
 
 GAME INSTRUCTIONS:
 - Do not touch anything
-- Kill as much 8-bits caracter as you can
+- Kill as much 8-bits character as you can
 - Arrive to the Gold Coin Wall
 - Enjoy!!!!!!
