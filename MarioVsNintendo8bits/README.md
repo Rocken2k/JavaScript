@@ -12,7 +12,7 @@ CONTROLS:
 - ↓ move down
 - ← move to the left
 - → move to the right
-- "space": to shoot
+- "space" to shoot
 
 GAME INSTRUCTIONS:
 - Do not touch anything
