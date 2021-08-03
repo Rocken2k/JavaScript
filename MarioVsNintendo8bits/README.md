@@ -1,5 +1,5 @@
 Mario Vs Nintendo 8-bits
-My first game and first time unsing Js (with kaboon)
+(My first game and my first time using Js)
 
 HOW TO USE
 - 1o Download all the files
@@ -14,7 +14,7 @@ CONTROLS:
 - → move to the right
 - "space": to shoot
 
-INSTRUCTIONS:
+GAME INSTRUCTIONS:
 - Do not touch anything
 - Kill as much 8-bits caracter as you can
 - Arrive to the Gold Coin Wall
